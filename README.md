@@ -1,39 +1,31 @@
-https://github.com/philipmarks
-# Hi there! I'm Philip Marks 👋
-## 🐘 #ThePostgresRecruiter | Managed Postgres Talent, Training & Support
+# Philip Marks | 🐘 #ThePostgresRecruiter
 
-Welcome to my corner of GitHub! This space serves as a bridge between the world's finest database talent, specialized education, and the global enterprise teams that rely on PostgreSQL.
+**PostgreSQL talent • training • specialist support • community**
 
-With a foundational background spending **5 years at EnterpriseDB (EDB)** recruiting Postgres expertise worldwide, I stepped out to become the **world's first dedicated Postgres recruiter**. Today, my mission has expanded beyond talent acquisition to deliver a comprehensive ecosystem of Postgres solutions.
+I help organisations connect with PostgreSQL expertise across recruitment, specialist training and production support. This repository is also where I’m building an accessible archive of my PostgreSQL writing.
 
----
+## PostgreSQL blog archive
 
-### 🛠️ What We Offer: Talent, Training & Support
+Browse the posts by date in the [LinkedIn blog index](postgres-blogs/index.md).
 
-Whether you need to build a data team from scratch, upskill your existing engineers, or secure production clusters, we have you covered:
+The archive is being organised from my LinkedIn posts, with the initial focus on the **three months to 25 November 2026**. The index links back to the original LinkedIn publications; individual Markdown copies are being added as the archive is completed.
 
-* **🎯 Postgres Recruitment & Talent Solutions:** Sourcing scarce, high-calibre Postgres talent (Core Internals Engineers, Cloud-Native Architects, Production DBAs, and Migration Specialists). We partner with businesses across both **In-House** embedding talent strategies and traditional **Agency** search models.
-* **🎓 Dedicated Postgres Training:** Tailored, deep-dive curriculum and short courses designed to upskill development and operations teams. From advanced query optimization and PL/pgSQL to high availability (HA) architecture, we bring in top-tier global community experts to train your engineers.
-* **🔥 Production Postgres Support:** Reliable, expert-led support services to help enterprise organizations monitor, optimize, and maintain mission-critical PostgreSQL databases without vendor lock-in.
+## What I do
 
----
+- **Recruitment:** PostgreSQL engineers, DBAs, architects, migration specialists and other database talent.
+- **Training:** Connecting teams with specialist PostgreSQL educators and community expertise.
+- **Support:** Helping organisations find experienced PostgreSQL support for production environments.
 
-### 🌍 Our Open-Source Ethos: The 10% Pledge
+## Open-source commitment
 
-I believe tech partners shouldn't just extract value from a community; they should actively reinvest back into it. 
+Through Synchro Europe, I support the PostgreSQL community and its open-source ecosystem. A stated part of my recruitment placement fees is donated back to the community.
 
-At **Synchro Europe**, we run our operations with a true open-source spirit. To directly support the infrastructure and ecosystem that makes our work possible, **we donate 10% of our commercial recruitment placement fees straight back to the PostgreSQL community ([postgresql.org](https://postgresql.org))**.
+## Find me
 
----
-
-### 📬 Let's Connect!
-
-Whether you need a bespoke training plan for your developers, a rock-solid support layer, or a specialized DBA hire (in-house or agency)—my door is open.
-
-* 🌐 **Company Website:** [Synchro Europe](https://synchro-europe.com)
-* 💼 **Professional Network:** [Connect on LinkedIn](https://linkedin.com)
-* 📧 **Direct Email:** [your.email@synchro-europe.com](mailto:your.email@synchro-europe.com)
+- [Synchro Europe](https://synchro-europe.com)
+- [PostgreSQL](https://www.postgresql.org)
+- [GitHub profile](https://github.com/philipmarks)
 
 ---
 
-*"Supporting, training, and recruiting database teams by respecting the community that builds them."*
+*Recruiting PostgreSQL talent while respecting the community that builds it.* 🐘
